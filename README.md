@@ -9,11 +9,10 @@ This project focuses on analyzing the EEG-Face dataset to investigate neural cor
 1. [Environment Setup](#environment-setup)
 2. [Dataset: EEG-Face](#dataset-eeg-face)
 3. [Code Structure and Analyses](#code-structure-and-analyses)
-   - [a)](#a-neural-correlation-of-gender-perceptions) Neural Correlation of Gender Perceptions
+   - [a) Neural Correlation of Gender Perceptions](#a-neural-correlation-of-gender-perceptions)
    - [b) EEG-Stimulus Pairing Verification](#b-eeg-stimulus-pairing-verification)
    - [c) Face Recognition via Classification of Randomized EEG Trials](#c-face-recognition-via-classification-of-randomized-eeg-trials)
    - [d) Super-trial EEG Analysis](#d-super-trial-eeg-analysis)
-4. [References (from table citations)](#references-from-table-citations)
 
 ## Environment Setup
 
