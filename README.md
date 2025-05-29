@@ -66,7 +66,17 @@ This involves classifying randomized EEG trials (both single-trial and super-tri
 python main_model.py
 ```
 
-### d) Super-trial EEG Analysis
+### d) Varying the number of identities from 2 to 40
+
+To enable an in-depth evaluation of EEG-Face, we select the well-performed EEGNet as a representative and test its face recognition performances by varying the number of identities from 2 to 40.
+
+**To run this analysis, execute:**
+
+```
+python main_eeg-2-40.py
+```
+
+### e) Super-trial EEG Analysis
 
 Evaluation on “super trial” EEG data. Ten single trials are combined into a super trial for tasks such as EEG-image classification.
 
