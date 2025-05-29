@@ -2,7 +2,7 @@
 
 This project focuses on analyzing the EEG-Face dataset to investigate neural correlations, super-trial EEG, EEG-stimulus pairing, and face recognition.
 
-![fig1](E:\0_ACM-MM人脸数据集\图\fig1.png)
+![fig1](fig1.png)
 
 ## Table of Contents
 
