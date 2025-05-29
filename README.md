@@ -1,6 +1,6 @@
 # EEG-Face Analysis Project
 
-This project focuses on analyzing the EEG-Face dataset to investigate neural correlations, super-trial EEG, EEG-stimulus pairing, and face recognition.
+This project provides an EEG-Face dataset featuring facial image stimuli and focuses on its analysis to investigate neural correlates, inter-trial EEG, EEG-stimulus pairing, and face recognition.
 
 ![fig1](fig1.png)
 
